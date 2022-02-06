@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GitJB1, Jonas Bernardino
-- 🌱 I’m currently learning: Front-end development on cursos.alura.com.br
+- 🌱 I’m currently learning: Java development on cursos.alura.com.br
 - 📫 How to reach me: 20jonasojonas06@gmail.com | jonas01bernardino05@outlook.com
 
 <!---
