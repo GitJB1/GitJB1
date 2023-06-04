@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GitJB1, Jonas Bernardino
-- 🌱 I’m currently learning: Java development on cursos.alura.com.br
-- 📫 How to reach me: 20jonasojonas06@gmail.com | jonas01bernardino05@outlook.com
+- 📫 How to reach me: 20jonasojonas06@gmail.com | jonas01bernardino05@outlook.com | Instagram: @jonasdino1 
 
 <!---
 GitJB1/GitJB1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
